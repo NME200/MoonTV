@@ -84,15 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-     "xxibaozyw": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "细胞采集黄色"
-    },
-    "apiyutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "AV-玉兔资源",
-      "detail": "https://apiyutu.com"
     }
   }
 }
