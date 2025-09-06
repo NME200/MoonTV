@@ -87,8 +87,12 @@
     },
      "xxibaozyw": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "细胞采集黄色",
-      "is_adult": true
+      "name": "细胞采集黄色"
+    },
+    "apiyutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "AV-玉兔资源",
+      "detail": "https://apiyutu.com"
     }
   }
 }
