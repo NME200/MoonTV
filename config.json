@@ -1,15 +1,1 @@
-{
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-     "dyttzy": {
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "豆瓣资源",
-      "detail": "dbzy.tv"
-    }
-  }
-}
+
